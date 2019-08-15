@@ -7,6 +7,6 @@ Bill-Reader uses Azure Computer Vision API. To try out Bill-Reader, please get a
 To run:
 - npm install
 - Add `subscriptionKey`
-- node index.js < optional img url >
+- node index.js `<optional img url>`
 
 This was built as part of [Blume Bootstrap Paradox](https://skillenza.com/challenge/bootstrap-paradox) Hackathon for [Dunzo](https://www.dunzo.com), and integrated into mainstream web application [here](https://github.com/sushma-priyadharssini/dun-dunzo). 
